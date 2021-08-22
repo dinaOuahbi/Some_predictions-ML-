@@ -1,1 +1,1 @@
-# jupyter-notebook
+# Machine learning with jupyter notebook (in python)
